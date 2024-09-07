@@ -1,0 +1,18 @@
+#ifndef DCC038D7_A459_44E0_8602_48D1DD1ECFD7
+#define DCC038D7_A459_44E0_8602_48D1DD1ECFD7
+
+
+typedef struct point
+{
+    int x, y;
+} POINT;
+
+#define MAZE_WEDTH 16
+#define MAZE_HEIGHT 16
+#define MAZE_GOAL_X 8
+#define MAZE_GOAL_Y 8
+
+
+
+
+#endif /* DCC038D7_A459_44E0_8602_48D1DD1ECFD7 */
